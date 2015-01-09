@@ -1,6 +1,6 @@
 class Hoge {
   public static void main(String[] args) {
-    System.out.println("Hage");
+    System.err.println("Hage");
   }
 }
 
